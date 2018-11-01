@@ -1,0 +1,82 @@
+{
+  "0x7c0c77a908ce56377b97d05433fd052e73531015a445130cd18574da94bfe7df": {
+    "contracts": {
+      "0xb84d125645e94e6329e6494db63830d1c68a719c328036dce55337f79a512e27": {
+        "name": "SimpleStorage",
+        "address": "0xfbda1e0Adf4F0FBa688C8d3B390Aa8Bf9684f98f"
+      },
+      "0x3043b04ad856d169c8f0b0509c0bc63192dc7edd92d6933c58708298a0e381be": {
+        "name": "ENSRegistry",
+        "address": "0x0Dc4602709FEd081AbD183cabDb68Aa55D85FAca"
+      },
+      "0x931a4bead2859dbfaf9fff88145a324f48e9cefe01a66b8e4b0b6ab5cbf43980": {
+        "name": "Resolver",
+        "address": "0x89388065B9B5D825c75845E8427317c0aE28d1c0"
+      },
+      "0x30505903fc26557b2a9b36a7d00845687637fb33e9c37ec178b5e5b3f84bcba3": {
+        "name": "FIFSRegistrar",
+        "address": "0x47Ea1aE095A06Cb12979369A0E5352B312c989bd"
+      },
+      "0x53f44912b6fd12b788a3757a67b63d2e7d728e7e618a0fc96722e1c529fc616c": {
+        "name": "SimpleStorage",
+        "address": "0x03bB8837f50CF648Ab3FBBe8619143fc1dAEaEfF"
+      },
+      "0xc3fc180218e5f78b9e55b4fdaf25c0b66b58d3a7320fefc7a705782ecc0327b8": {
+        "name": "SimpleStorage",
+        "address": "0x01ea042bb317c607a4Fb270445128488dafBCF31"
+      },
+      "0xd4d505809b778c3037748c98e6653d98996d645bce327286f18b31e186f37347": {
+        "name": "SimpleStorage",
+        "address": "0x61304dF99bdBA475ee2DB8F82ea321e2b67bF006"
+      },
+      "0x5cd5abd1ab6be1785b74b26184e778497f4b70b621a577b30f40e1f405b5dd98": {
+        "name": "SimpleStorage",
+        "address": "0x2a54EB0863e6cCB870f5b942D303Cb7d4A6E4272"
+      },
+      "0x43a6390834ce26b7082669b9a2f04f961439596f797a1d9f161b208df2a38787": {
+        "name": "SimpleStorage",
+        "address": "0x8EDD6A119A232d17Cc4f52Eb176B0c683bA39879"
+      },
+      "0xc5438c393f306e680c9d5a1e8b6320b4facbd5b1e687f4297335f23a2d84f8bd": {
+        "name": "SimpleStorage",
+        "address": "0x02D4EcF96e47486330EBA1eaE4F1394316197767"
+      },
+      "0xeb25759c318961dc9d748da759c894cd19ba62398d82c4769289b8d27951900d": {
+        "name": "SimpleStorage",
+        "address": "0x7C5a762165b372C7D06ce8e21c8C832048CDBBFe"
+      },
+      "0xc45e8bb58d7ab6b41dac110533bbf85d7500ff4b55d8fe832063377ef7c6aef4": {
+        "name": "SimpleStorage",
+        "address": "0xeAe5c6A0b4E8372a9af652Da7E390346D43F0D64"
+      },
+      "0xa793716393e78dd774c3a52db067a481bc1097524d2cb5d1c7db8800d4a008c0": {
+        "name": "SimpleStorage",
+        "address": "0xcE354c4E4EF59Dedc13469F8e0B274c2B01074EA"
+      },
+      "0x8d80f3d718bcda03d3d19c1d238dbf6c1e13d5104176ef30b1e94749938e6de8": {
+        "name": "SimpleStorage",
+        "address": "0x012562ABc21A9c168E2535523A1A5E35244ED103"
+      },
+      "0x786b5a77c8ae05771f774a5e5de9bf618f26cb8c4f514dce619782f13d6dc5bf": {
+        "name": "SimpleStorage",
+        "address": "0xDD9dA1B947F1dAA2A8c74C650B61c1E999b0eB9c"
+      },
+      "0xb90c36a5e28a7c0918b07a02fca6c63e7fc8c1a64a591e254652e10243f60772": {
+        "name": "SimpleStorage",
+        "address": "0x4EeFc181cbFa6a57E61f852265A7f83C038f551d"
+      },
+      "0xd3736ececda115609f653fcc3db0f1db73bb6ba86abd3f12c1ca1aa1ac3c1896": {
+        "name": "SimpleStorage",
+        "address": "0x22430be1F99AAAaD810908dE14dbca3593055D43"
+      },
+      "0xe090af701ca6cc63364ab27a0aa3e672580473444b7f8bc3b03b5dba705141b9": {
+        "name": "SimpleStorage",
+        "address": "0x3E693a93c70b95811778224C0FeD1493CE12c0eC"
+      },
+      "0xb13b39ae7543fbf24c392da295de2449d64cbc8aa8e9134e5439939052acb2ec": {
+        "name": "SimpleStorage",
+        "address": "0xE5f351844478aA5cf7c5a9Fd43FE8D8686d4B485"
+      }
+    }
+  }
+}
