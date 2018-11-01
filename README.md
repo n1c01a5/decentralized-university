@@ -6,7 +6,7 @@ Chose faite avec ce repo.
 
 Quelques remarques:
 
-Pour l'installation de embark bien vérifier d'avoir les dernières de nodeJs, npm, geth et ipfs.
+Pour l'installation de embark bien vérifier d'avoir les dernières versions de nodeJs, npm, geth et ipfs.
 Pour info, la team d'embark sur https://gitter.im/embark-framework/Lobby est très réactive.
 
 Le but de cette dapp est de faire un MVP de d'une université décentralisée.
