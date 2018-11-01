@@ -9,13 +9,13 @@ Quelques remarques:
 Pour l'installation de embark bien vérifier d'avoir les dernières versions de nodeJs, npm, geth et ipfs.
 Pour info, la team d'embark sur https://gitter.im/embark-framework/Lobby est très réactive.
 
-Le but de cette dapp est de faire un MVP de d'une université décentralisée.
+Le but de cette dapp est de faire un MVP d'une université décentralisée.
 
 L'idée est que n'importe qui (maître) peut proposer des cours et certifier ses disciples (sur l'idée d'Ernest).
 
 L'interface permet de poster son cours sur IPFS via l'onglet "Publish on IPFS" puis après d'enregistrer le hash ipfs dans le smart contract decentralized university.
 
-Dans le smart contract, il y a une fonction qui permet de certifier les disciples (je ne l'ai implémenté amis pas testé).
+Dans le smart contract, il y a une fonction qui permet de certifier les disciples (je ne l'ai implémenté mais pas testé).
 
 (Le code est fait à l'arrache mais ca peut être une base pour faire un prototype.)
 
