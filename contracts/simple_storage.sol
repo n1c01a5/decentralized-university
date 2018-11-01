@@ -16,8 +16,8 @@ contract SimpleStorage {
     courses.push(course(_hashCourse, msg.sender));
   }
 
-  function blacklist(address _blacklistAdress, uint _isCourse) public {
-    graduates[_isCourse].push(_blacklistAdress);
+  function blacklist(address _blacklistAdress, uint _idCourse) public {
+    // todo
   }
 
   function getCourse(uint _idCourse) public returns (bytes32) {
